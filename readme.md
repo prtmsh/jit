@@ -1,6 +1,6 @@
 basically git, but written in java.
 
-planning on implementing the following features:
+Jit has the following features:
 - jit init
 - jit add
 - jit commit
